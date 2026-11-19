@@ -1,0 +1,8 @@
+deepseek_*.json
+deepseek_*.md
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
