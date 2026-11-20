@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DeepSeek Rescue Backup
 // @namespace    https://github.com/<ТВОЙ_НИК>/deepseek-rescue-backup
-// @version      0.5
+// @version      0.5.0
 // @description  Экспорт и продолжение чатов DeepSeek (JSON + Markdown)
 // @author       Wronskian
 // @match        https://chat.deepseek.com/*
