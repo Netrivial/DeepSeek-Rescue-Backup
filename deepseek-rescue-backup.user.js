@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         DeepSeek Rescue Backup
-// @namespace    https://github.com/<ТВОЙ_НИК>/deepseek-rescue-backup
+// @namespace    https://github.com/Netrivial/DeepSeek-Rescue-Backup
 // @version      0.5.0
 // @description  Экспорт и продолжение чатов DeepSeek (JSON + Markdown)
 // @author       Wronskian
 // @match        https://chat.deepseek.com/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/Netrivial/deepseek-rescue-backup/main/deepseek-rescue-backup.user.js
-// @downloadURL  https://raw.githubusercontent.com/Netrivial/deepseek-rescue-backup/main/deepseek-rescue-backup.user.js
-// @homepageURL  https://github.com/Netrivial/deepseek-rescue-backup
-// @supportURL   https://github.com/Netrivial/deepseek-rescue-backup/issues
+// @updateURL    https://raw.githubusercontent.com/Netrivial/DeepSeek-Rescue-Backup/main/deepseek-rescue-backup.user.js
+// @downloadURL  https://raw.githubusercontent.com/Netrivial/DeepSeek-Rescue-Backup/main/deepseek-rescue-backup.user.js
+// @homepageURL  https://github.com/Netrivial/DeepSeek-Rescue-Backup
+// @supportURL   https://github.com/Netrivial/DeepSeek-Rescue-Backup/issues
 // ==/UserScript==
 
 (function() {
