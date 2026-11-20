@@ -9,8 +9,8 @@
 // @run-at       document-idle
 // @updateURL    https://raw.githubusercontent.com/Netrivial/deepseek-rescue-backup/main/deepseek-rescue-backup.user.js
 // @downloadURL  https://raw.githubusercontent.com/Netrivial/deepseek-rescue-backup/main/deepseek-rescue-backup.user.js
-// @homepageURL  https://github.com/<ТВОЙ_НИК>/deepseek-rescue-backup
-// @supportURL   https://github.com/<ТВОЙ_НИК>/deepseek-rescue-backup/issues
+// @homepageURL  https://github.com/Netrivial/deepseek-rescue-backup
+// @supportURL   https://github.com/Netrivial/deepseek-rescue-backup/issues
 // ==/UserScript==
 
 (function() {
